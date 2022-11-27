@@ -1,0 +1,1 @@
+Test project for interview for Django 
