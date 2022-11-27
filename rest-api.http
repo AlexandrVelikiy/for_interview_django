@@ -1,0 +1,7 @@
+GET http://localhost:8000/api/pizza
+Accept: application/json
+
+
+###
+GET http://localhost:8000/api/pizza/1
+Accept: application/json
